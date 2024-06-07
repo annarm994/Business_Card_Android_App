@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="my_phone_number">+123456789</string>
+    <string name="twitter_handle">\@anna_marie</string>
+    <string name="my_email">anna.marie@email.com</string>
+    <string name="my_name">Anna Marie</string>
+    <string name="my_title">Mobile Application Developer</string>
+</resources>
